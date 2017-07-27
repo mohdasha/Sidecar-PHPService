@@ -1,0 +1,5 @@
+projectKey=ms-spring-boot-mongo-service
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/ms-spring-boot-mongo-service
+ceTaskId=AVwvHoLsSyYK-7Gq5eq3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVwvHoLsSyYK-7Gq5eq3
