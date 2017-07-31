@@ -30,8 +30,7 @@ class ImageServiceController extends Controller{
 	 * 
 	 **/
 	public function getProductImageUrls($product_id=null){
-		
-		$imageUrls = ImageServiceModel::where('catentryid',$product_id)->get();
+		$imageUrls = ImageServiceModel::where('catentryid',(int)$product_id)->get();
 		if(count($imageUrls) > 0)
 			return response()->json($imageUrls);
 		else{
