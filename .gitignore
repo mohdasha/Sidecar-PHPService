@@ -3,3 +3,11 @@
 Homestead.json
 Homestead.yaml
 .env
+.classpath
+.project
+.springBeans
+Dockerfile_1
+.scannerwork/
+.settings/
+logs/
+target/

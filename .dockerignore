@@ -1,0 +1,17 @@
+#Scannerwork
+.scannerwork/
+sonar-project.properties
+
+#Eclipse template
+.settings/
+.springBeans
+
+#Springboot sidecar directories
+src/
+target/
+.classpath
+.project
+pom.xml
+logs/
+
+Dockerfile_1
