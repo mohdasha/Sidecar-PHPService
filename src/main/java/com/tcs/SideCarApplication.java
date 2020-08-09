@@ -1,4 +1,4 @@
-package com.tcs;
+package com.app;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -7,8 +7,8 @@ import org.springframework.cloud.netflix.sidecar.EnableSidecar;
 
 /**
  * Created : 07/05/2017  (mm-dd-yyyy)
- * @author 1295519 Mohd Ashif Ali<ali.mohdashif@tcs.com>
- * @description SideCar App for Image Service
+ * @author 1295519 Mohd Ashif Ali
+ * @description SideCar App
 */
 
 @SpringBootApplication
